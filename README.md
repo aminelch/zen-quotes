@@ -19,4 +19,4 @@ plugins=(... zen-quotes)
 
 ## Requirements
 
-Before using this plugin please install `jq`, `curl` and `grep`
+Before using this plugin please install [jq](https://github.com/jqlang/jq) and [curl](https://github.com/curl/curl)
