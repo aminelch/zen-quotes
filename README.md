@@ -9,7 +9,7 @@ cd $ZSH/custom/plugins
 git clone https://github.com/aminelch/zenquotes.git
 ```
 
-2. Activate the plugin. Add `zen-quotes` to the `plugins` list in the file `.zshrc`
+2. Activate the plugin. Add `zenquotes` to the `plugins` list in the file `.zshrc`
 
 ```shell
 plugins=(... zenquotes)
