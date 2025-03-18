@@ -1,5 +1,5 @@
 # zen-quotes
- Plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) to get random quote from [zenquotes.io](http://zenquotes.io)
+ Plugin for [ZSH](https://www.zsh.org/) to get random quote from [zenquotes.io](http://zenquotes.io)
 
 ## Installation
 
